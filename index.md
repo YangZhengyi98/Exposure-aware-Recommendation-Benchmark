@@ -1,6 +1,6 @@
 ##Introduction
 
-Recommendation is an important task that helps us identify useful information everyday, thus making it a thriving research topicin both academia and industry.
+Recommendation is an important task that helps us identify useful information everyday, thus making it a thriving research topic in both academia and industry. However, different researchers usually different experiment settings and evaluation protocols in their works. This leads to that it is difficult for others to reproduce their studies or even got totally different results. Therefore, a fair comparision platform among different recommendation models is a necessity in the long run. So we have done extensive experiments in a well-known recommendation library: [NeuRec](https://github.com/wubinzzu/NeuRec).
 
 You can use the [editor on GitHub](https://github.com/YangZhengyi98/Exposure-aware-Recommendation-Benchmark/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
