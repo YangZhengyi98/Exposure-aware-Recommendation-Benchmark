@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+##Introduction
+
+Recommendation is an important task that helps us identify useful information everyday, thus making it a thriving research topicin both academia and industry.
 
 You can use the [editor on GitHub](https://github.com/YangZhengyi98/Exposure-aware-Recommendation-Benchmark/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
